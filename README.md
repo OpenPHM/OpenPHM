@@ -6,7 +6,7 @@ We are currently implementing a data model dedicated to one of PHM's major aspec
 * Predictive Maintenance (PdM)
 
 
-We plan to publish a first version late 2023 or early 2024.
+We are planning to publish a first version late 2023 or early 2024.
 
 
 
