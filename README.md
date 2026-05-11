@@ -6,8 +6,6 @@ We are currently implementing a data model dedicated to one of PHM's major aspec
 * Predictive Maintenance (PdM)
 
 
-We are planning to publish a first version late 2023 or early 2024.
-
 
 
 
@@ -16,7 +14,7 @@ We are implementing a data model that is compliant to the logical architecture o
 
 The implementation will be available in multiple languages enabling the flexible implementation of powerful, distributed CBM systems.
 
-Meanwhile, please refer to our website for some more information: [Hamburg PHM](https://www.hamburg-phm.com)
+Meanwhile, please refer to our website for some more information: [OpenPHM](https://www.openphm.net)
 
 
 
